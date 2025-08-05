@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Archivos de configuracion de IDE especificos del usuario
+.idea/
+.DS_Store
